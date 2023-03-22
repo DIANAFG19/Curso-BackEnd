@@ -1,4 +1,4 @@
-public class PrivAbstEncap {
+public class PrivacidadAbstraccionEncapsulacion {
     public static void main(String[] args) {
         /*
         Vehiculo coche = new Vehiculo();
