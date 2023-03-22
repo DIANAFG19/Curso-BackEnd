@@ -1,6 +1,6 @@
 public class TemaOcho {
     public static void main(String[] args) {
-        Persona persona = new Persona();
+        Persona1 persona = new Persona1();
         persona.setNombre("Diana");
         persona.setEdad(26);
         persona.setTelefono("5512345678");
@@ -10,7 +10,7 @@ public class TemaOcho {
     }
 }
 
-class Persona {
+class Persona1 {
     private int edad;
     private String nombre;
     private String telefono;
